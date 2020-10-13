@@ -2,4 +2,4 @@
 
 ## Anthony Ghobind
 
-[Deployed Link](https://assignment-6-ghobind.netlify.app)
+[Deployed Link](https://itp404-hw6-ghobind.netlify.app/)
