@@ -1,0 +1,23 @@
+body {
+  font-family: "Montserrat";
+}
+
+#member-name {
+  font-weight: bold;
+}
+
+#member-name:hover {
+  color: cornflowerblue;
+  font-weight: bold;
+  transition: color 0.5s font-weight 0.5s;
+}
+
+#member-img:hover {
+  opacity: 0.8;
+  transition: opacity 0.5s;
+}
+
+.modal-body {
+  max-height: calc(100vh - 210px);
+  overflow-y: auto;
+}
