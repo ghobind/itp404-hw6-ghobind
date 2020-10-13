@@ -1,26 +1,6 @@
 {
   "members": [
     {
-      "login": "Alonski",
-      "id": 452199,
-      "node_id": "MDQ6VXNlcjQ1MjE5OQ==",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/452199?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/Alonski",
-      "html_url": "https://github.com/Alonski",
-      "followers_url": "https://api.github.com/users/Alonski/followers",
-      "following_url": "https://api.github.com/users/Alonski/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Alonski/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Alonski/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Alonski/subscriptions",
-      "organizations_url": "https://api.github.com/users/Alonski/orgs",
-      "repos_url": "https://api.github.com/users/Alonski/repos",
-      "events_url": "https://api.github.com/users/Alonski/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Alonski/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    {
       "login": "bmac",
       "id": 54056,
       "node_id": "MDQ6VXNlcjU0MDU2",
